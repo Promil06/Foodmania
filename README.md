@@ -1,1 +1,1 @@
-# foodmania.github.io
+Foodmania
